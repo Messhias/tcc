@@ -1,0 +1,41 @@
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&subset=latin,cyrillic-ext');
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+// Variables
+@import "variables";
+// Bootstrap
+@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+// <!-- Bootstrap Material Datetime Picker Css -->
+@import "~adminbsb-materialdesign/plugins/bootstrap-material-datetimepicker/css/bootstrap-material-datetimepicker";
+//Waves Effect Css 
+@import "~adminbsb-materialdesign/plugins/node-waves/waves";
+//Animation Css 
+@import "~adminbsb-materialdesign/plugins/animate-css/animate";
+// <!-- JQuery DataTable Css -->
+@import "~adminbsb-materialdesign/plugins/jquery-datatable/skin/bootstrap/css/dataTables.bootstrap";
+// <!-- Wait Me Css -->
+@import "~adminbsb-materialdesign/plugins/waitme/waitMe";
+// <!-- Bootstrap Select Css -->
+@import "~adminbsb-materialdesign/plugins/bootstrap-select/css/bootstrap-select";
+// <!-- Morris Chart Css-->
+@import "~adminbsb-materialdesign/plugins/morrisjs/morris";
+// <!-- Colorpicker Css -->
+@import "~adminbsb-materialdesign/plugins/bootstrap-colorpicker/css/bootstrap-colorpicker";
+// <!-- Dropzone Css -->
+@import "~adminbsb-materialdesign/plugins/dropzone/dropzone";
+// <!-- Multi Select Css -->
+@import "~adminbsb-materialdesign/plugins/multi-select/css/multi-select";
+// <!-- Bootstrap Spinner Css -->
+@import "~adminbsb-materialdesign/plugins/jquery-spinner/css/bootstrap-spinner";
+// <!-- Bootstrap Tagsinput Css -->
+@import "~adminbsb-materialdesign/plugins/bootstrap-tagsinput/bootstrap-tagsinput";
+// <!-- noUISlider Css -->
+@import "~adminbsb-materialdesign/plugins/nouislider/nouislider.min";
+// <!-- AdminBSB Themes. You can choose a theme from css/themes instead of get all themes -->
+@import "~adminbsb-materialdesign/scss/themes/_all-themes";
+// CSS CUSTOM
+@import "~adminbsb-materialdesign/scss/style";
+
+// dev custom css
+@import 'custom';
